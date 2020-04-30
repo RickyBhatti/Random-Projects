@@ -1,0 +1,15 @@
+name: Magic 8 Ball
+version: 1.0.0
+author: RickyBGamez
+description:
+main: org.VenomStudios.main.EightBall
+
+commands:
+    eightballinfo:
+        description: Using this command gets you the Magical 8 Ball!
+        aliases: 8ballinfo
+        usage: /eightballinfo
+    eightball:
+        description: Using this command gets you the Magical 8 Ball!
+        aliases: 8ball
+        usage: /eightball

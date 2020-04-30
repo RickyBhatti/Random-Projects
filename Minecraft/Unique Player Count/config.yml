@@ -1,0 +1,23 @@
+############################################################
+# +------------------------------------------------------+ #
+# |                       DEBUG                          | #
+# +------------------------------------------------------+ #
+############################################################
+#	- If you're having issues with UniquePlayerCount saving
+#	  how many people have connected to your server. Please
+#	  set debug to true, copy the Venom Data printed to 
+#	  your console and send it to RickyBGamez in a ticket!
+#	  If you're not having issues, it is best to have this
+#	  this set to false.
+debug: false
+
+############################################################
+# +------------------------------------------------------+ #
+# |                      NO SAVE                         | #
+# +------------------------------------------------------+ #
+############################################################
+#	- If this is set to true, UniquePlayerCount will only
+#	  count players till a server reload/restart. Once the
+#	  the server reload/restarts it will begin counting
+#	  from 0 again.
+no-save: false

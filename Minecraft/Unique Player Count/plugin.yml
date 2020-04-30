@@ -1,0 +1,10 @@
+name: UniquePlayerCount
+version: 1.0
+author: RickyBGamez
+description:
+main: org.VenomStudios.main.UniquePlayerCount
+
+commands:
+    uniqueplayers:
+        description: Use this to get a count of how many unique players have connected to this server!
+        usage: /uniqueplayers
